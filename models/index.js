@@ -1,0 +1,6 @@
+require('./accupuncture')
+require('./massage')
+require('./naturopath')
+require('./nutritionists')
+require('./chiropractors')
+require('./hollistic')
